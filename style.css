@@ -15,7 +15,7 @@ body {
 }
 .btnl {
   color: yellow;
-  background-image: url(images/wood.jpg);
+  background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
   margin: 30px;
@@ -24,7 +24,7 @@ body {
 .btns {
   color: yellow;
   font-size: small;
-  background-image: url(images/wood.jpg);
+  background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
   margin: 5px;
@@ -32,7 +32,7 @@ body {
 }
 .btnlac {
   color: white;
-  background-image: url(images/wood.jpg);
+  background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: white;
   margin: 30px;
@@ -41,7 +41,7 @@ body {
 .btnsac {
   color: white;
   font-size: small;
-  background-image: url(images/wood.jpg);
+  background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: white;
   margin: 5px;
@@ -60,6 +60,6 @@ button:hover {
   border-color: pink;
 }
 .wood {
-  background-image: url(images/wood.jpg);
+  background-image: url(/images/wood.jpg);
   color: yellow;
 }
