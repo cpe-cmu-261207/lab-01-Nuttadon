@@ -3,7 +3,7 @@ html {
   min-height: 100%;
 }
 body {
-  background-image: url(images/bg.jpeg);
+  background-image: url(/images/bg.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -15,7 +15,7 @@ body {
 }
 .btnl {
   color: yellow;
-  background-image: url(imageswood.jpg);
+  background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
   margin: 30px;
@@ -24,7 +24,7 @@ body {
 .btns {
   color: yellow;
   font-size: small;
-  background-image: url(imageswood.jpg);
+  background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
   margin: 5px;
@@ -32,7 +32,7 @@ body {
 }
 .btnlac {
   color: white;
-  background-image: url(imageswood.jpg);
+  background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: white;
   margin: 30px;
@@ -41,7 +41,7 @@ body {
 .btnsac {
   color: white;
   font-size: small;
-  background-image: url(imageswood.jpg);
+  background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: white;
   margin: 5px;
