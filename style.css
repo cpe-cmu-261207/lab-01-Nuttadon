@@ -10,6 +10,9 @@ body {
 .atf {
   font-family: "Mali";
 }
+* {
+  font-family: "Mali";
+}
 .btnl {
   color: yellow;
   background-image: url(/images/wood.jpg);
@@ -20,10 +23,11 @@ body {
 }
 .btns {
   color: yellow;
+  font-size: small;
   background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
-  margin: 15px;
+  margin: 5px;
   padding: 10px;
 }
 .btnlac {
@@ -36,17 +40,26 @@ body {
 }
 .btnsac {
   color: white;
+  font-size: small;
   background-image: url(/images/wood.jpg);
   border-radius: 10px;
   border-color: white;
-  margin: 15px;
+  margin: 5px;
   padding: 10px;
 }
 .flexcen {
   justify-content: center;
 }
+.flexcen2 {
+  justify-content: center;
+  flex-wrap: wrap;
+}
 button:hover {
   color: pink;
   border-radius: 10px;
   border-color: pink;
+}
+.wood {
+  background-image: url(/images/wood.jpg);
+  color: yellow;
 }
