@@ -1,0 +1,52 @@
+body,
+html {
+  min-height: 100%;
+}
+body {
+  background-image: url(/images/bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.atf {
+  font-family: "Mali";
+}
+.btnl {
+  color: yellow;
+  background-image: url(/images/wood.jpg);
+  border-radius: 10px;
+  border-color: yellow;
+  margin: 30px;
+  padding: 10px;
+}
+.btns {
+  color: yellow;
+  background-image: url(/images/wood.jpg);
+  border-radius: 10px;
+  border-color: yellow;
+  margin: 15px;
+  padding: 10px;
+}
+.btnlac {
+  color: white;
+  background-image: url(/images/wood.jpg);
+  border-radius: 10px;
+  border-color: white;
+  margin: 30px;
+  padding: 10px;
+}
+.btnsac {
+  color: white;
+  background-image: url(/images/wood.jpg);
+  border-radius: 10px;
+  border-color: white;
+  margin: 15px;
+  padding: 10px;
+}
+.flexcen {
+  justify-content: center;
+}
+button:hover {
+  color: pink;
+  border-radius: 10px;
+  border-color: pink;
+}
