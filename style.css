@@ -23,7 +23,7 @@ body {
 }
 .btns {
   color: yellow;
-  font-size: small;
+  font-size: medium;
   background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: yellow;
@@ -40,7 +40,7 @@ body {
 }
 .btnsac {
   color: white;
-  font-size: small;
+  font-size: medium;
   background-image: url(images/wood.jpg);
   border-radius: 10px;
   border-color: white;
@@ -62,4 +62,9 @@ button:hover {
 .wood {
   background-image: url(images/wood.jpg);
   color: yellow;
+}
+
+.delink {
+  text-decoration: none;
+  color: skyblue;
 }
